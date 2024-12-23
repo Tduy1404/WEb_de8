@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Web_thi1.Models.PhanLoaiPhu>
+@{
+    Layout = null;
+}
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li class="active" onclick="sendImageName('@item.TenPhanLoaiPhu')"><a>@item.TenPhanLoaiPhu</a></li>
+    }
+    @*<li><a href="shop.html">Shop</a></li>
+        <li><a href="product-details.html">Product</a></li>
+        <li><a href="cart.html">Cart</a></li>
+        <li><a href="checkout.html">Checkout</a></li>*@
+</ul>

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_2MEF69I3_SQLEXPRESS/QLBanChauCanh/True/SqlTable/dbo.SanPham.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\dm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\dm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|c:\\users\\lenovo\\source\\repos\\web_thi1\\web_thi1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3739CEF0-6657-4C4D-B8E2-8BF287E2FED0}|Web_thi1\\Web_thi1.csproj|solutionrelative:web_thi1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 456,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dm.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\dm.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\dm.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\dm.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\dm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T21:16:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\update.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\update.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\update.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T21:00:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.SanPham [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_2MEF69I3_SQLEXPRESS/QLBanChauCanh/True/SqlTable/dbo.SanPham.sql",
+              "ToolTip": "dbo.SanPham [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-23T20:07:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\create.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\create.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:35:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\delete.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\delete.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:10:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\detail.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\detail.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\detail.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\detail.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:02:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_thi1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_thi1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:26:45.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Web_thi1\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Models\\SanPham.cs",
+              "RelativeToolTip": "Web_thi1\\Models\\SanPham.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:11:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:05:36.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:57:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Web_thi1\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Web_thi1\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-23T15:11:17.544Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Web_thi1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Web_thi1\\Web_thi1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Web_thi1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:05:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

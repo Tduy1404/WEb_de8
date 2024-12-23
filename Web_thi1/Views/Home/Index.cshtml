@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    var sanPhams = ViewBag.sanPham as List<Web_thi1.Models.SanPham>;
+    var loc = ViewBag.checkLoc as List<Web_thi1.Models.SanPham>;
+
+    var phanLoaiSanPhams = Model as List<Web_thi1.Models.PhanLoaiPhu>;
+    var sp = Model as List<Web_thi1.Models.SanPham>;
+}
+
+
+
+<div class="products-catagories-area clearfix">
+    <div class="amado-pro-catagory clearfix">
+        @{
+            if (ViewBag.checkLoc != null)
+            {
+
+                foreach (var item in loc)
+                {
+
+                    <!-- Single Catagory -->
+        <div class="single-products-catagory clearfix">
+            <a href="@Url.Action("detail", "Home", new { id = item.MaSanPham })">
+                <img src="~/Content/Images QLBanChauCanh/@item.AnhDaiDien" alt="">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>@item.DonGiaBanLonNhat </p>
+                    <h4>@item.TenSanPham</h4>
+                </div>
+            </a>
+        </div>
+
+                }
+            }
+
+            else
+            {
+                foreach (var i in sanPhams)
+                {
+    <div class="single-products-catagory clearfix">
+
+        <a href="@Url.Action("detail", "Home", new { id = i.MaSanPham })">
+            <img src="~/Content/Images QLBanChauCanh/@i.AnhDaiDien" alt="">
+            <!-- Hover Content -->
+            <div class="hover-content">
+                <div class="line"></div>
+                <p>@i.DonGiaBanLonNhat</p>
+                <h4>@i.TenSanPham</h4>
+            </div>
+        </a>
+    </div>
+                }
+            }
+        }
+
+
+    </div>
+</div>

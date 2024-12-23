@@ -1,0 +1,108 @@
+﻿@model Web_thi1.Models.SanPham
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>detail</title>
+</head>
+<body>
+    <div>
+        <h4>SanPham</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.TenSanPham)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.TenSanPham)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.GiaNhap)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.GiaNhap)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DonGiaBanNhoNhat)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DonGiaBanNhoNhat)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DonGiaBanLonNhat)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DonGiaBanLonNhat)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.TrangThai)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MoTaNgan)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MoTaNgan)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.AnhDaiDien)
+            </dt>
+    
+            <dd>
+                <img src="~/Content/Images QLBanChauCanh/@Model.AnhDaiDien" />
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.NoiBat)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.NoiBat)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PhanLoai.PhanLoaiChinh)
+            </dt>
+    
+            <dd>
+                @Html.DropDownListFor(model => model.PhanLoai, (IEnumerable<SelectListItem>)ViewBag.MPC, new { @class = "form-control" })
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PhanLoaiPhu.TenPhanLoaiPhu)
+            </dt>
+    
+            <dd>
+               @Html.DropDownListFor(model=>model.PhanLoaiPhu,(IEnumerable<SelectListItem>) ViewBag.MPL, new {@class="form-control"})
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("delete", "delete", new { id = Model.MaSanPham }) |
+        @Html.ActionLink("update", "update", new { id = Model.MaSanPham }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
